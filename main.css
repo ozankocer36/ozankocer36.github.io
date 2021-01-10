@@ -7,6 +7,15 @@
 	color:	rgb(0,0,0);	
 }
 
+#backgroundBody {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background: url(wp2856689.jpg);
+	background-size: cover;
+	background-color: #464646;
+}
+
 .fa {
      padding: 20px;
      font-size: 30px;
